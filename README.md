@@ -16,7 +16,7 @@ Atualmente tenho me empenhado em me aprimorar como desenvolvedor backend com as 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" height="20"/> 
 
 
-Para me encontrar, você pode utilizar algum dos seguintes meios: <br>
+Para me encontrar, sinta-se à vontade para utilizar algum dos seguintes meios: <br>
 
 <a href="https://linkedin.com/in/gustavo-wolff" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a> 
 <a href="https://github.com/gustavow1985" target="blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/></a> 
