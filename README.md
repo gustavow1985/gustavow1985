@@ -1,9 +1,9 @@
 # Olá 👋
 ## Meu nome é Gustavo Wolff e atualmente curso o 5º semestre do curso de Engenharia de Software.
 
-Paralelamente à faculdade, venho estudando o ecossistema Javascript, com foco no backend, de modo que tenho me envolvido principalmente com Node e Express e utilizado MySQL e MongoDB para persistência dos dados.
+Paralelamente à faculdade, venho estudando o ecossistema Javascript, com foco no backend, de modo que tenho me envolvido principalmente com Node e Express e utilizado MySQL e MongoDB para persistência dos dados, bem como EJS para renderização.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3FbflSFnzl5IhFsDPBcHghWuqSvgB8-9F0w1S-F6mmNdkHsfY5p1aWTcqiGhc6mAUg&usqp=CAU" height="20"/> 
 
 
 Eu também conheço HTML5, CC3, Bootstrap e consigo projetar alguma coisa no Figma.
