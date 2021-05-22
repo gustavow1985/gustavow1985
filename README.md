@@ -3,7 +3,7 @@
 
 Paralelamente à faculdade, venho estudando o ecossistema Javascript, com foco no backend, de modo que tenho me envolvido principalmente com Node e Express e utilizado MySQL e MongoDB para persistência dos dados, bem como EJS para renderização.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3FbflSFnzl5IhFsDPBcHghWuqSvgB8-9F0w1S-F6mmNdkHsfY5p1aWTcqiGhc6mAUg&usqp=CAU" height="20"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-%3C%25%20EJS%20%25%3E-green?style=flat-square" height="20"/> 
 
 
 Eu também conheço HTML5, CC3, Bootstrap e consigo projetar alguma coisa no Figma.
@@ -22,6 +22,7 @@ Para me encontrar, sinta-se à vontade para utilizar algum dos seguintes meios: 
 <a href="https://github.com/gustavow1985" target="blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"/></a> 
 <a href="https://api.whatsapp.com/send?phone=5543999294493&text=Ol%C3%A1%20Gustavo.%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20"/></a> 
 <a href="https://t.me/gustavoWolff" target="blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20"/></a>
+<a href="mailto:gustavowolff@icloud.com" target="blank"> <img src="https://img.shields.io/badge/-%40%20%20%20e--mail-informational?style=flat-square" height="20"/></a>
 
 <hr>
 
