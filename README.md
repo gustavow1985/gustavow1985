@@ -1,5 +1,5 @@
 # Olá 👋
-## Meu nome é Gustavo Wolff e atualmente curso o 5º semestre do curso de Engenharia de Software.
+## Meu nome é Gustavo Wolff e atualmente curso o 5º semestre de Engenharia de Software.
 
 Paralelamente à faculdade, venho estudando o ecossistema Javascript, com foco no backend, de modo que tenho me envolvido principalmente com Node e Express e utilizado MySQL e MongoDB para persistência dos dados, bem como EJS para renderização.
 
